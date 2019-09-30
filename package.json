@@ -1,0 +1,23 @@
+{
+  "name": "backend-password",
+  "version": "1.0.0",
+  "description": "npm install",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseteranc/backend-password.git"
+  },
+  "author": "joseteranc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joseteranc/backend-password/issues"
+  },
+  "homepage": "https://github.com/joseteranc/backend-password#readme",
+  "devDependencies": {
+    "eslint": "^6.5.0",
+    "prettier": "^1.18.2"
+  }
+}
